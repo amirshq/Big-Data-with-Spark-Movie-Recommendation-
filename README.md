@@ -1,8 +1,7 @@
 # Big-Data-with-Spark-Movie-Recommendation-
 Big Data with Spark (Movie Recommendation)
 Creating a comprehensive README file for your movie recommendation big data project using PySpark on GitHub is a great idea to provide information, context, and instructions to potential users, collaborators, and contributors. Here's a template you can use as a starting point:
-
----
+# This code originates from a Jupyter Notebook, but it is feasible to achieve the same project using the .py format.
 
 # Movie Recommendation Big Data Project using PySpark
 
